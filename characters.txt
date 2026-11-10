@@ -5,3 +5,6 @@ Canvis no «staged» per a cometre:
 	modificat:        characters.txt
 
 no hi ha canvis afegits a cometre (useu «git add» o «git commit -a»)
+Spider-man
+Hulk
+Thanos
