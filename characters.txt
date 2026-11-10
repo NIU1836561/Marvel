@@ -1,2 +1,7 @@
-Thor
-Iron Man
+En la branca main
+Canvis no «staged» per a cometre:
+  (useu «git add <fitxer>...» per a actualitzar què es cometrà)
+  (useu «git restore <fitxer>...» per a descartar canvis en el directori de treball)
+	modificat:        characters.txt
+
+no hi ha canvis afegits a cometre (useu «git add» o «git commit -a»)
